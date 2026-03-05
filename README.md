@@ -22,19 +22,6 @@
 
 ---
 
-# Architecture & Engineering
-
-- Clean Architecture
-- Domain-Driven Design (DDD)
-- REST & Event-Driven APIs
-- WebSockets
-- Caching Strategies
-- API Documentation (Swagger)
-- CI/CD with GitHub Actions
-- Dockerized Environments
-
----
-
 # Databases
 
 PostgreSQL • SQL Server • Redis • MongoDB
@@ -43,19 +30,13 @@ PostgreSQL • SQL Server • Redis • MongoDB
 
 # Quality
 
-Jest • ESLint • Prettier • Testing Library
+Jest • Cypress • Vitest • Testing Library
 
 ---
 
 # DevOps
 
-Docker • Linux • Nginx • AWS
-
----
-
-# Also Experienced With
-
-PHP • SCSS • Styled Components • Bootstrap • jQuery • Bun
+Docker • Linux • AWS
 
 ---
 
